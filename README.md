@@ -9,4 +9,6 @@ qemu-system-x86_64 -drive format=raw,file=disk.img -no-reboot
 
 requirements: have NASM, gcc and qemu
 
+for more ---> https://www.youtube.com/watch?v=Jws7BHrts6g&list=PLsoiO2Be-2z8BfsSkspJfDiuKeC9-LSca (Portuguese)
+
 thanks ;)
