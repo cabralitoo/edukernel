@@ -1,4 +1,4 @@
-to run on linux/ubuntu just do: 
+to run on linux just do: 
 
 ```
 make
